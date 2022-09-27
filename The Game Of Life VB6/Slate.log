@@ -1,0 +1,15 @@
+
+    'If sStatus = "Added" Then
+    '    Set rs = db.OpenRecordset("Select * From Barcode")
+    '    If rs.RecordCount > 0 Then
+    '        rs.Edit
+    '        rs!Code = sBarCode
+    '        rs.Update
+    '    Else
+    '        rs.AddNew
+    '        rs!Code = "000"
+    '        rs.Update
+    '    End If
+    '    rs.Close
+    'End If
+    
